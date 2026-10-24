@@ -1,0 +1,797 @@
+customer_id,last_recharge_on,area,plan,tenure_months,data_gb_month,complaints_6m,dropped_calls_week,monthly_bill,churned
+MT0001,2025-01-01,Tarnol,Postpaid,29,2.6,1,1,"Rs 1,910",No
+MT0002,2025-01-02,Tarnol,Postpaid,14,93.3,0,6,"Rs 1,760",No
+MT0003,2025-01-03,Golra,Postpaid,24,6.1,2,3,Rs 800,Yes
+MT0004,2025-01-03,Shahzad Town,Prepaid,31,2.0,0,1,Rs 960,No
+MT0005,2025-01-04,Blue Area,Prepaid,44,22.7,1,2,Rs 200,No
+MT0006,2025-01-05,Bahria Town,Postpaid,50,5.4,2,2,"Rs 1,570",No
+MT0007,2025-01-05,Golra,Prepaid,37,46.3,1,3,Rs 790,No
+MT0008,2025-01-05,Bahria Town,Postpaid,67,7.7,1,4,"Rs 1,090",No
+MT0009,2025-01-07,Shahzad Town,Postpaid,16,17.5,1,3,"Rs 1,650",No
+MT0010,2025-01-07,Saddar  ,Prepaid,39,7.2,1,2,"Rs 1,580",No
+MT0011,2025-01-09,Tarnol,Postpaid,65,17.4,0,,"Rs 1,480",No
+MT0012,2025-01-09,Bara Kahu,Postpaid,59,9.5,0,3,Rs 930,No
+MT0013,2025-01-10,Saddar,Postpaid,68,8.2,1,3,"Rs 2,470",No
+MT0014,2025-01-10,Blue Area,Prepaid,480,4.1,0,6,"Rs 1,260",No
+MT0015,2025-01-10,Bara Kahu,Postpaid,56,6.6,2,6,"Rs 1,680",No
+MT0016,2025-01-10,Golra,Prepaid,13,5.6,1,5,"Rs 1,150",Yes
+MT0017,2025-01-11,Golra,Prepaid,13,43.2,0,,Rs 960,No
+MT0018,2025-01-12,Blue Area,Prepaid,33,16.1,0,2,Rs 960,No
+MT0019,2025-01-13,Tarnol,Postpaid,4,14.1,1,4,"Rs 1,370",Yes
+MT0020,2025-01-13,Tarnol,Prepaid,26,26.8,2,5,Rs 290,Yes
+MT0021,2025-01-14,Blue Area,Prepaid,49,32.9,1,3,"Rs 1,040",No
+MT0022,2025-01-15,Saddar,Prepaid,13,6.0,0,2,"Rs 1,530",No
+MT0023,2025-01-16,Tarnol,Prepaid,34,8.2,2,4,Rs 860,No
+MT0024,2025-01-16,shahzad town,Postpaid,57,5.6,0,3,"Rs 1,280",No
+MT0025,2025-01-16,Saddar,Prepaid,4,20.7,2,1,Rs 740,Yes
+MT0026,2025-01-18,Blue Area,Prepaid,40,15.0,2,2,"Rs 1,030",No
+MT0027,2025-01-19,Golra,Prepaid,56,,2,1,"Rs 2,140",Yes
+MT0028,2025-01-19,Shahzad Town,Prepaid,30,8.0,2,3,"Rs 1,010",No
+MT0029,2025-01-20,Bahria Town,Prepaid,8,24.3,1,3,"Rs 1,270",Yes
+MT0030,2025-01-20,Blue Area,Postpaid,37,22.4,0,2,"Rs 1,450",No
+MT0031,2025-01-21,shahzad town,Prepaid,19,14.4,2,3,Rs 690,No
+MT0032,2025-01-21,  BAHRIA TOWN ,Prepaid,72,6.7,0,3,"Rs 2,380",No
+MT0033,2025-01-22,Saddar,Prepaid,33,27.5,1,3,"Rs 1,720",No
+MT0034,2025-01-22,Blue Area,Postpaid,36,19.1,3,5,"Rs 3,120",Yes
+MT0035,2025-01-22,Shahzad Town,Prepaid,40,12.2,1,1,"Rs 2,010",No
+MT0036,2025-01-23,Golra,Prepaid,21,9.7,1,4,"Rs 1,780",Yes
+MT0037,2025-01-23,Shahzad Town,Prepaid,1,5.1,0,7,"Rs 1,600",Yes
+MT0038,2025-01-23,Blue Area,Prepaid,29,18.8,1,3,Rs 280,No
+MT0039,2025-01-24,Bara Kahu,Postpaid,4,33.4,2,3,Rs 620,Yes
+MT0040,2025-01-24,Blue Area,Prepaid,6,10.8,2,3,"Rs 1,920",No
+MT0041,2025-01-26,Blue Area,Postpaid,34,12.9,1,2,"Rs 2,000",No
+MT0042,2025-01-26,Golra,Postpaid,59,8.5,1,1,Rs 970,No
+MT0043,2025-01-27,Blue Area,Prepaid,18,10.1,0,3,"Rs 1,090",No
+MT0044,2025-01-27,Saddar,Prepaid,32,25.5,0,3,Rs 660,No
+MT0045,2025-01-28,Tarnol  ,Prepaid,44,8.4,3,,Rs 610,No
+MT0046,2025-01-28,Bahria Town,Prepaid,-3,42.1,1,4,"Rs 1,570",No
+MT0047,2025-01-28,Bahria Town,Postpaid,68,42.5,2,5,"Rs 1,270",No
+MT0048,2025-01-30,Tarnol,Postpaid,70,8.9,2,1,"Rs 2,210",No
+MT0049,2025-01-30,Blue Area,Prepaid,-1,53.8,2,5,"Rs 2,140",No
+MT0050,2025-01-31,Golra,Postpaid,15,6.0,1,4,Rs 440,Yes
+MT0051,2025-01-31,Shahzad Town,Prepaid,71,48.2,1,6,"Rs 2,130",Yes
+MT0052,2025-01-31,Bahria Town,Postpaid,5,13.1,2,1,Rs 320,No
+MT0053,2025-02-01,Saddar,Postpaid,31,3.2,0,5,"Rs 1,450",No
+MT0054,2025-02-01,Shahzad Town,Postpaid,20,15.7,0,3,"Rs 1,410",Yes
+MT0055,2025-02-01,Bara Kahu,Prepaid,7,24.5,3,4,"Rs 1,750",Yes
+MT0056,2025-02-02,Saddar,Prepaid,13,6.6,1,2,"Rs 3,170",No
+MT0057,2025-02-03,Saddar,Prepaid,4,16.1,2,3,"Rs 1,600",Yes
+MT0058,2025-02-04,Blue Area,Prepaid,50,5.8,0,2,Rs 990,No
+MT0059,2025-02-05,Saddar,Prepaid,72,18.1,0,2,"Rs 1,000",No
+MT0060,2025-02-05,Blue Area,Prepaid,17,17.3,2,,"Rs 1,240",Yes
+MT0061,2025-02-05,Tarnol,Postpaid,60,36.2,2,2,Rs 910,No
+MT0062,2025-02-05,Saddar,Prepaid,3,3.6,0,4,Rs 260,Yes
+MT0063,2025-02-05,Golra,Postpaid,34,8.8,1,1,Rs 720,No
+MT0064,2025-02-05,Bahria Town,Prepaid,30,5.9,0,1,"Rs 1,680",No
+MT0065,2025-02-07,Bara Kahu,Prepaid,27,28.0,0,2,"Rs 1,990",No
+MT0066,2025-02-07,Tarnol,Prepaid,19,7.5,0,4,"Rs 1,080",No
+MT0067,2025-02-07,Blue Area,Prepaid,29,59.5,1,5,"Rs 1,600",Yes
+MT0068,2025-02-07,Golra,Prepaid,4,8.9,1,5,"Rs 2,130",Yes
+MT0069,2025-02-08, Tarnol,Prepaid,65,23.3,0,6,"Rs 1,290",No
+MT0070,2025-02-08,Blue Area,Prepaid,47,15.3,1,3,"Rs 1,730",No
+MT0071,2025-02-08,Golra,Postpaid,7,13.4,0,4,"Rs 1,250",No
+MT0072,2025-02-09,  BARA KAHU ,Postpaid,63,4.3,1,5,"Rs 1,920",No
+MT0073,2025-02-09,Bahria Town,Prepaid,34,30.1,0,2,"Rs 1,230",No
+MT0074,2025-02-09,Bahria Town,Postpaid,64,12.3,3,2,"Rs 1,360",No
+MT0075,2025-02-10,Blue Area,Prepaid,50,21.0,3,2,"Rs 1,490",No
+MT0076,2025-02-11,Shahzad Town,Prepaid,23,21.5,1,4,"Rs 1,080",No
+MT0077,2025-02-11,Shahzad Town,Prepaid,22,33.4,0,,Rs 840,No
+MT0078,2025-02-11,Shahzad Town,Prepaid,8,9.3,2,3,Rs 590,Yes
+MT0079,2025-02-11,Golra,Postpaid,55,21.5,1,3,"Rs 2,670",No
+MT0080,2025-02-12,Tarnol,Prepaid,14,2.7,0,3,Rs 800,No
+MT0081,2025-02-12,Saddar,Postpaid,57,21.1,1,2,"Rs 1,940",No
+MT0082,2025-02-12,Tarnol,Prepaid,46,12.1,0,6,Rs 920,Yes
+MT0083,2025-02-13, Bahria Town,Prepaid,47,23.3,1,2,"Rs 1,300",No
+MT0084,2025-02-13,Shahzad Town,Postpaid,4,18.2,1,0,"Rs 1,770",No
+MT0085,2025-02-14,Bara Kahu,Prepaid,25,8.8,0,0,"Rs 1,250",No
+MT0086,2025-02-14,Saddar,Prepaid,10,9.1,0,4,"Rs 1,240",Yes
+MT0087,2025-02-14,Bahria Town,Postpaid,24,,1,1,"Rs 2,250",No
+MT0088,2025-02-14,Bahria Town,Prepaid,13,10.4,2,3,Rs 420,Yes
+MT0089,2025-02-14,Blue Area,Prepaid,6,8.5,0,3,"Rs 1,120",No
+MT0090,2025-02-15,Bahria Town,Prepaid,56,9.7,1,0,"Rs 1,590",No
+MT0091,2025-02-15,Bahria Town,Postpaid,54,46.1,0,1,"Rs 2,010",No
+MT0092,2025-02-16,Saddar,Prepaid,37,22.7,2,4,"Rs 2,000",Yes
+MT0093,2025-02-16,Bara Kahu,Postpaid,69,91.5,0,3,"Rs 1,430",No
+MT0094,2025-02-16,Tarnol,Postpaid,58,9.4,1,2,"Rs 2,230",No
+MT0095,2025-02-16,Bahria Town,Postpaid,33,4.4,1,1,"Rs 1,220",No
+MT0096,2025-02-17,Bahria Town,Prepaid,17,14.6,2,0,"Rs 1,610",Yes
+MT0097,2025-02-18,Golra,Prepaid,15,14.1,1,7,"Rs 2,240",Yes
+MT0098,2025-02-19,Shahzad Town,Prepaid,71,27.1,0,2,"Rs 1,840",No
+MT0099,2025-02-19,Golra,Prepaid,28,17.6,1,4,"Rs 1,100",Yes
+MT0100,2025-02-21,Saddar,Prepaid,59,17.0,2,5,Rs 890,No
+MT0101,2025-02-21,Bara Kahu,Postpaid,70,13.3,0,4,"Rs 1,190",No
+MT0102,2025-02-22,Tarnol,Prepaid,16,4.9,3,2,"Rs 2,150",Yes
+MT0103,2025-02-23,Bahria Town,Prepaid,34,29.5,2,1,Rs 400,No
+MT0104,2025-02-23,Saddar,Postpaid,37,14.4,2,,"Rs 1,000",No
+MT0105,2025-02-24,Bara Kahu,Prepaid,6,18.6,2,1,"Rs 1,720",No
+MT0106,2025-02-25,Bara Kahu,Prepaid,25,8.5,0,3,"Rs 2,020",Yes
+MT0107,2025-02-25,Tarnol,Prepaid,66,7.6,1,4,Rs 200,No
+MT0108,2025-02-26,Tarnol,Prepaid,41,4.7,2,2,Rs 440,No
+MT0109,2025-02-26,Golra,Postpaid,65,8.0,4,2,"Rs 1,270",No
+MT0110,2025-02-26,Shahzad Town,Postpaid,7,3.5,0,1,"Rs 1,390",No
+MT0111,2025-02-27,Bahria Town,Prepaid,67,13.8,1,5,"Rs 1,040",No
+MT0112,2025-02-27,Shahzad Town,Prepaid,51,53.0,1,1,"Rs 1,300",No
+MT0113,2025-02-28,Shahzad Town,Prepaid,5,19.9,2,5,"Rs 1,860",Yes
+MT0114,2025-02-28,Bahria Town  ,Prepaid,45,4.7,1,,"Rs 1,600",No
+MT0115,2025-02-28,Tarnol,Postpaid,38,22.6,1,2,"Rs 1,970",Yes
+MT0116,2025-02-28,Bara Kahu,Postpaid,62,45.2,1,2,Rs 900,No
+MT0117,2025-02-28,Tarnol,Postpaid,4,25.8,1,5,"Rs 2,200",No
+MT0118,2025-02-28,Shahzad Town,Prepaid,65,5.6,1,2,"Rs 2,810",No
+MT0119,2025-03-01,Tarnol,Prepaid,58,12.0,1,1,"Rs 1,880",No
+MT0120,2025-03-02,Shahzad Town,Prepaid,41,11.8,2,2,"Rs 1,300",Yes
+MT0121,2025-03-02,Saddar,Postpaid,5,13.9,0,3,"Rs 1,530",No
+MT0122,2025-03-02,Bara Kahu,Postpaid,19,9.5,0,4,Rs 380,No
+MT0123,2025-03-02, Shahzad Town,Postpaid,60,22.8,1,7,"Rs 1,110",No
+MT0124,2025-03-03,Bahria Town,Prepaid,67,9.9,0,2,Rs 770,No
+MT0125,2025-03-03,Shahzad Town,Prepaid,57,9.0,4,3,"Rs 1,770",Yes
+MT0126,2025-03-03,Shahzad Town,Postpaid,12,100.4,0,3,"Rs 1,540",No
+MT0127,2025-03-03,Tarnol  ,Prepaid,42,11.5,1,2,"Rs 1,560",No
+MT0128,2025-03-03,Golra,Prepaid,16,11.8,1,5,"Rs 1,760",Yes
+MT0129,2025-03-03,Bara Kahu,Postpaid,47,2.7,0,3,"Rs 2,530",No
+MT0130,2025-03-03,Bahria Town,Postpaid,53,4.8,1,3,"Rs 1,430",No
+MT0131,2025-03-04,Golra,Postpaid,46,23.7,0,4,"Rs 1,040",No
+MT0132,2025-03-04,Shahzad Town,Prepaid,68,16.2,0,2,"Rs 2,470",No
+MT0133,2025-03-05,Tarnol,Postpaid,20,6.7,1,2,"Rs 1,560",No
+MT0134,2025-03-05,Saddar,Prepaid,39,6.8,1,7,"Rs 1,430",No
+MT0135,2025-03-06,Tarnol,Prepaid,43,7.4,0,7,"Rs 1,670",Yes
+MT0136,2025-03-07,Tarnol,Postpaid,3,5.9,1,5,"Rs 1,310",Yes
+MT0137,2025-03-08,Golra,Postpaid,58,2.6,1,0,"Rs 1,240",No
+MT0138,2025-03-09,Golra,Prepaid,35,7.7,1,3,Rs 200,Yes
+MT0139,2025-03-10,Shahzad Town,Postpaid,31,4.2,0,1,"Rs 1,520",No
+MT0140,2025-03-11,Tarnol,Prepaid,63,7.7,0,5,"Rs 1,160",No
+MT0141,2025-03-11,Saddar,Prepaid,3,17.2,0,2,"Rs 1,010",No
+MT0142,2025-03-11,Bara Kahu,Postpaid,11,4.2,1,4,"Rs 2,320",Yes
+MT0143,2025-03-12,Saddar,Prepaid,57,10.1,3,6,Rs 850,No
+MT0144,2025-03-12,Saddar,Postpaid,12,11.2,2,2,"Rs 1,430",No
+MT0145,2025-03-12,Bahria Town,Prepaid,38,20.5,2,4,"Rs 1,250",No
+MT0146,2025-03-12,Golra,Postpaid,8,,0,5,"Rs 1,570",No
+MT0147,2025-03-12,Tarnol,Prepaid,64,8.2,3,3,"Rs 2,200",Yes
+MT0148,2025-03-13,Shahzad Town,Prepaid,60,8.4,1,6,"Rs 1,610",Yes
+MT0149,2025-03-14,Blue Area,Prepaid,67,,2,0,"Rs 3,030",No
+MT0150,2025-03-14,Shahzad Town,Prepaid,30,10.0,1,2,"Rs 2,220",No
+MT0151,2025-03-14,Bara Kahu,Prepaid,57,6.3,2,1,"Rs 1,540",No
+MT0152,2025-03-15,Shahzad Town,Prepaid,13,,0,4,"Rs 2,250",Yes
+MT0153,2025-03-15,Bahria Town,Prepaid,61,11.6,0,2,"Rs 1,370",No
+MT0154,2025-03-16,Shahzad Town  ,Prepaid,58,8.0,0,4,"Rs 1,400",No
+MT0155,2025-03-16,Bahria Town,Postpaid,66,43.7,0,2,"Rs 1,100",No
+MT0156,2025-03-16,Golra,Postpaid,21,10.2,3,5,"Rs 1,640",No
+MT0157,2025-03-16,Shahzad Town,Postpaid,55,32.9,1,4,Rs 690,No
+MT0158,2025-03-16,Tarnol,Prepaid,11,30.7,0,2,"Rs 2,180",No
+MT0159,2025-03-17,Saddar,Prepaid,36,2.6,1,6,"Rs 1,440",Yes
+MT0160,2025-03-17,Shahzad Town,Postpaid,59,32.1,0,1,"Rs 1,850",No
+MT0161,2025-03-18,Tarnol,Prepaid,23,8.7,0,0,"Rs 1,500",No
+MT0162,2025-03-18,Bahria Town,Prepaid,31,8.1,1,4,"Rs 2,360",No
+MT0163,2025-03-19,Bahria Town,Prepaid,39,8.4,1,4,"Rs 1,450",No
+MT0164,2025-03-20,Saddar,Prepaid,22,32.5,1,2,"Rs 1,090",No
+MT0165,2025-03-20,Bahria Town  ,Postpaid,41,9.7,0,3,Rs 770,No
+MT0166,2025-03-21,Shahzad Town,Postpaid,16,7.1,0,5,"Rs 1,180",Yes
+MT0167,2025-03-23,Golra,Prepaid,9,23.0,3,8,Rs 870,Yes
+MT0168,2025-03-23,Blue Area,Prepaid,30,7.1,2,0,"Rs 2,250",No
+MT0169,2025-03-24,  BLUE AREA ,Prepaid,51,9.1,1,1,"Rs 1,820",No
+MT0170,2025-03-24,Tarnol,Postpaid,38,22.0,1,3,"Rs 1,700",No
+MT0171,2025-03-24,Saddar,Prepaid,42,9.9,1,3,"Rs 1,450",No
+MT0172,2025-03-24,Saddar,Postpaid,65,20.2,1,2,"Rs 2,630",No
+MT0173,2025-03-24,Blue Area,Prepaid,47,8.8,2,,"Rs 1,300",Yes
+MT0174,2025-03-25,Bara Kahu,Postpaid,33,,1,4,"Rs 2,290",Yes
+MT0175,2025-03-26,Tarnol,Prepaid,3,15.6,0,6,"Rs 1,730",Yes
+MT0176,2025-03-26,Bahria Town,Postpaid,37,33.0,0,2,Rs 920,No
+MT0177,2025-03-27,Shahzad Town,Postpaid,49,13.4,0,3,"Rs 1,450",No
+MT0178,2025-03-28,Shahzad Town,Prepaid,62,3.7,1,3,"Rs 1,610",No
+MT0179,2025-03-29,Shahzad Town,Prepaid,65,31.6,0,1,"Rs 1,450",No
+MT0180,2025-03-29,Golra,Prepaid,45,32.7,0,3,"Rs 2,530",No
+MT0181,2025-03-29,Tarnol  ,Prepaid,68,10.5,2,3,"Rs 1,280",No
+MT0182,2025-03-30,Blue Area,Prepaid,4,9.1,0,5,Rs 930,No
+MT0183,2025-03-31,Blue Area,Prepaid,72,19.7,1,4,Rs 620,No
+MT0184,2025-03-31,Blue Area,Prepaid,56,34.2,0,1,"Rs 1,500",No
+MT0185,2025-04-01,Saddar,Postpaid,4,10.0,1,4,"Rs 1,960",Yes
+MT0186,2025-04-01,Golra,Prepaid,55,39.8,0,1,"Rs 1,790",No
+MT0187,2025-04-01,Bara Kahu,Prepaid,58,17.4,1,5,Rs 720,No
+MT0188,2025-04-02,Bara Kahu  ,Prepaid,58,50.2,1,3,"Rs 1,140",No
+MT0189,2025-04-02,Shahzad Town,Prepaid,25,14.4,3,3,"Rs 1,960",
+MT0190,2025-04-03,Blue Area,Postpaid,49,11.3,0,2,"Rs 1,340",No
+MT0191,2025-04-03,tarnol,Prepaid,66,81.4,1,1,Rs 800,No
+MT0192,2025-04-03,Bahria Town,Prepaid,1,4.4,1,3,"Rs 1,020",No
+MT0193,2025-04-03,Shahzad Town,Prepaid,26,15.2,0,2,"Rs 1,960",No
+MT0194,2025-04-03,BLUE AREA,Prepaid,22,3.9,1,3,"Rs 1,300",No
+MT0195,2025-04-04,Bara Kahu,Prepaid,14,19.5,1,2,Rs 960,Yes
+MT0196,2025-04-05,Tarnol,Postpaid,53,14.0,0,5,"Rs 1,350",No
+MT0197,2025-04-05,Tarnol,Prepaid,19,21.3,0,0,Rs 880,No
+MT0198,2025-04-05,TARNOL,Prepaid,3,6.7,0,4,"Rs 1,160",No
+MT0199,2025-04-05,Bahria Town,Prepaid,42,21.3,1,5,"Rs 1,140",No
+MT0200,2025-04-06,Blue Area,Prepaid,59,7.4,2,4,Rs 870,No
+MT0201,2025-04-06,Tarnol,Prepaid,7,9.5,0,1,"Rs 2,280",No
+MT0202,2025-04-07,Shahzad Town,Prepaid,18,15.0,0,1,"Rs 1,000",No
+MT0203,2025-04-08,Shahzad Town,Postpaid,57,,1,2,"Rs 1,500",No
+MT0204,2025-04-08,  TARNOL ,Prepaid,32,8.3,0,0,"Rs 2,170",No
+MT0205,2025-04-09,Golra,Postpaid,8,28.1,0,5,"Rs 2,130",No
+MT0206,2025-04-10,Shahzad Town,Prepaid,15,8.7,0,2,"Rs 2,200",No
+MT0207,2025-04-10,Tarnol,Prepaid,38,8.9,2,4,"Rs 1,460",Yes
+MT0208,2025-04-10,Tarnol,Prepaid,70,9.7,1,4,"Rs 1,390",No
+MT0209,2025-04-10,Shahzad Town,Postpaid,42,10.5,0,4,"Rs 2,150",No
+MT0210,2025-04-12,Tarnol,Prepaid,22,22.4,0,5,Rs 680,No
+MT0211,2025-04-13,Golra,Prepaid,46,4.2,4,1,"Rs 1,930",No
+MT0212,2025-04-13,Tarnol,Postpaid,20,8.5,1,2,"Rs 1,360",Yes
+MT0213,2025-04-13,Bahria Town,Prepaid,65,21.2,0,4,"Rs 1,290",No
+MT0214,2025-04-15,Shahzad Town,Prepaid,2,4.5,0,4,"Rs 2,220",Yes
+MT0215,2025-04-15,Blue Area,Postpaid,46,6.9,2,2,Rs 670,No
+MT0216,2025-04-15,Shahzad Town,Prepaid,9,3.6,1,5,"Rs 1,310",Yes
+MT0217,2025-04-15,Golra,Prepaid,44,14.9,0,1,Rs 440,No
+MT0218,2025-04-16,Tarnol,Postpaid,9,11.6,0,4,"Rs 2,080",No
+MT0219,2025-04-17,Saddar,Prepaid,67,10.9,0,4,Rs 200,No
+MT0220,2025-04-17,bahria town,Postpaid,47,3.6,1,3,"Rs 1,120",No
+MT0221,2025-04-18,Bahria Town,Postpaid,60,,1,4,"Rs 2,800",No
+MT0222,2025-04-18,Shahzad Town,Prepaid,11,18.7,3,2,"Rs 1,310",Yes
+MT0223,2025-04-19,Shahzad Town,Postpaid,42,19.4,4,3,"Rs 1,600",Yes
+MT0224,2025-04-21,Blue Area,Prepaid,2,6.0,1,3,Rs 660,No
+MT0225,2025-04-23,  GOLRA ,Postpaid,51,31.7,1,,Rs 700,No
+MT0226,2025-04-23,Bahria Town,Prepaid,60,16.3,0,4,"Rs 1,010",No
+MT0227,2025-04-23,Tarnol,Prepaid,2,6.9,1,5,"Rs 1,240",Yes
+MT0228,2025-04-26,Shahzad Town,Postpaid,69,9.2,0,2,"Rs 2,090",No
+MT0229,2025-04-27,Blue Area,Postpaid,1,30.1,1,2,Rs 420,No
+MT0230,2025-04-27,Bahria Town,Prepaid,4,15.2,1,2,"Rs 1,820",Yes
+MT0231,2025-04-27,Golra,Prepaid,28,26.4,1,2,"Rs 1,840",No
+MT0232,2025-04-27,Tarnol,Prepaid,57,24.8,5,3,Rs 500,Yes
+MT0233,2025-04-28,Tarnol,Prepaid,33,26.9,0,2,Rs 500,No
+MT0234,2025-04-29,Tarnol,Postpaid,66,5.7,4,2,"Rs 1,210",No
+MT0235,2025-04-29,Bara Kahu,Prepaid,12,14.4,0,3,"Rs 1,120",Yes
+MT0236,2025-04-30,Tarnol,Prepaid,50,25.0,2,3,"Rs 1,440",Yes
+MT0237,2025-04-30,Tarnol,Postpaid,19,7.7,0,0,"Rs 1,560",No
+MT0238,2025-04-30,Shahzad Town,Prepaid,56,7.5,2,3,"Rs 1,280",No
+MT0239,2025-05-01,Bahria Town,Prepaid,30,9.8,2,1,"Rs 2,030",No
+MT0240,2025-05-01,Shahzad Town,Prepaid,69,10.2,0,1,Rs 820,No
+MT0241,2025-05-02,Blue Area,Postpaid,66,27.6,2,3,"Rs 1,410",No
+MT0242,2025-05-02,Tarnol,Prepaid,51,35.9,1,2,Rs 910,No
+MT0243,2025-05-02,Bara Kahu,Prepaid,8,15.8,1,5,Rs 330,Yes
+MT0244,2025-05-02,Saddar,Prepaid,71,3.6,0,5,"Rs 1,190",No
+MT0245,2025-05-02,Golra,Prepaid,67,18.8,0,7,"Rs 1,220",No
+MT0246,2025-05-02,Bara Kahu,Prepaid,64,23.3,0,2,"Rs 2,060",No
+MT0247,2025-05-04,Tarnol,Prepaid,53,35.2,1,3,"Rs 2,260",Yes
+MT0248,2025-05-04,Shahzad Town,Postpaid,70,88.1,0,3,Rs 910,No
+MT0249,2025-05-04,Blue Area,Prepaid,1,11.3,0,3,Rs 200,
+MT0250,2025-05-04,  BAHRIA TOWN ,Prepaid,17,11.3,2,4,"Rs 1,890",Yes
+MT0251,2025-05-05,Golra,Postpaid,29,21.8,2,,"Rs 1,080",Yes
+MT0252,2025-05-06,Bara Kahu,Prepaid,3,11.1,0,1,"Rs 1,340",Yes
+MT0253,2025-05-06,Tarnol,Prepaid,33,12.6,0,0,"Rs 1,150",No
+MT0254,2025-05-07,Saddar,Prepaid,64,31.1,0,5,"Rs 1,240",No
+MT0255,2025-05-07,Blue Area,Prepaid,10,20.7,0,4,"Rs 2,550",No
+MT0154,2025-03-16,Shahzad Town  ,Prepaid,58,8.0,0,4,"Rs 1,400",No
+MT0256,2025-05-07,Blue Area,Prepaid,37,21.7,2,6,"Rs 3,100",No
+MT0257,2025-05-07,Saddar,Prepaid,48,10.9,2,1,"Rs 1,660",No
+MT0258,2025-05-07,Golra  ,Postpaid,13,14.2,0,3,Rs 440,No
+MT0259,2025-05-08,Golra,Postpaid,45,17.6,3,2,"Rs 1,390",No
+MT0260,2025-05-09,Bahria Town,Prepaid,28,26.5,2,3,"Rs 1,800",No
+MT0261,2025-05-09,Shahzad Town,Prepaid,50,8.7,1,4,"Rs 1,830",No
+MT0262,2025-05-09,Bara Kahu,Prepaid,34,44.4,0,2,Rs 540,No
+MT0263,2025-05-10,Shahzad Town,Prepaid,55,13.1,2,2,"Rs 2,090",No
+MT0264,2025-05-10,Tarnol,Prepaid,63,21.1,0,0,"Rs 1,230",No
+MT0265,2025-05-11,Bahria Town,Prepaid,27,3.4,1,2,Rs 510,No
+MT0266,2025-05-13,Blue Area,Postpaid,71,6.3,1,2,"Rs 2,790",No
+MT0267,2025-05-14,Saddar,Postpaid,19,12.2,0,5,"Rs 1,460",No
+MT0268,2025-05-14,Blue Area,Postpaid,41,,2,2,"Rs 2,630",No
+MT0269,2025-05-15,Shahzad Town,Prepaid,48,18.0,0,6,"Rs 1,320",No
+MT0270,2025-05-15,Bara Kahu,Prepaid,43,14.6,2,2,"Rs 2,090",Yes
+MT0271,2025-05-15,Blue Area,Prepaid,56,2.2,1,1,"Rs 1,900",No
+MT0272,2025-05-15,SADDAR,Postpaid,65,18.3,2,3,Rs 540,Yes
+MT0273,2025-05-16,SHAHZAD TOWN,Prepaid,38,10.9,3,5,"Rs 1,770",Yes
+MT0274,2025-05-16,Saddar,Prepaid,28,21.8,3,4,Rs 830,No
+MT0241,2025-05-02,Blue Area,Postpaid,66,27.6,2,3,"Rs 1,410",No
+MT0275,2025-05-16,Tarnol,Postpaid,44,11.1,2,5,Rs 330,Yes
+MT0276,2025-05-16,Saddar,Prepaid,44,12.9,2,,Rs 890,Yes
+MT0277,2025-05-17,Tarnol  ,Prepaid,72,6.2,2,3,"Rs 1,550",Yes
+MT0278,2025-05-17,Golra,Prepaid,16,19.3,3,2,"Rs 1,100",Yes
+MT0279,2025-05-17,Golra,Prepaid,60,37.5,0,4,"Rs 1,010",No
+MT0280,2025-05-17,Saddar,Postpaid,21,6.4,1,3,Rs 900,No
+MT0281,2025-05-18,  BARA KAHU ,Postpaid,49,6.2,3,3,"Rs 2,050",Yes
+MT0024,2025-01-16,shahzad town,Postpaid,57,5.6,0,3,"Rs 1,280",No
+MT0282,2025-05-19,Golra,Prepaid,66,10.4,2,1,Rs 910,No
+MT0283,2025-05-19,Bahria Town,Postpaid,13,23.9,1,3,"Rs 1,750",No
+MT0284,2025-05-19,Blue Area,Prepaid,37,,2,3,Rs 890,No
+MT0285,2025-05-19,  SADDAR ,Prepaid,10,12.1,2,3,"Rs 1,430",Yes
+MT0286,2025-05-19,Blue Area,Prepaid,52,44.6,2,2,Rs 930,No
+MT0287,2025-05-20,Bahria Town,Prepaid,18,8.6,4,1,"Rs 1,920",Yes
+MT0288,2025-05-20,Blue Area,Postpaid,43,16.8,1,3,"Rs 1,580",No
+MT0289,2025-05-20,Saddar,Prepaid,9,,0,4,"Rs 1,020",No
+MT0290,2025-05-20,Bahria Town,Prepaid,27,6.0,0,4,"Rs 2,000",Yes
+MT0291,2025-05-20,blue area,Postpaid,35,36.6,2,3,"Rs 3,020",No
+MT0292,2025-05-20,Tarnol,Prepaid,39,11.4,0,3,"Rs 1,560",No
+MT0293,2025-05-20,Saddar,Postpaid,68,3.2,2,7,"Rs 1,000",No
+MT0294,2025-05-22,Golra,Prepaid,38,6.9,0,1,"Rs 1,230",No
+MT0295,2025-05-22,Bahria Town,Prepaid,22,5.4,1,4,Rs 640,No
+MT0296,2025-05-22,Tarnol,Prepaid,46,19.1,0,1,"Rs 2,140",No
+MT0297,2025-05-22,Bahria Town,Postpaid,63,25.2,1,5,"Rs 1,510",No
+MT0298,2025-05-23,Shahzad Town,Prepaid,66,6.3,1,,"Rs 1,920",No
+MT0299,2025-05-23,Bara Kahu,Postpaid,5,9.3,4,5,"Rs 1,330",Yes
+MT0300,2025-05-23,Shahzad Town,Prepaid,38,6.0,1,2,"Rs 1,280",No
+MT0301,2025-05-24,Golra,Postpaid,12,10.9,2,1,"Rs 1,420",Yes
+MT0302,2025-05-24,Bahria Town,Prepaid,11,15.7,2,0,"Rs 1,590",Yes
+MT0303,2025-05-25,Golra,Prepaid,48,,0,2,Rs 870,No
+MT0304,2025-05-25,Blue Area  ,Prepaid,8,7.1,1,2,"Rs 1,140",No
+MT0305,2025-05-25,tarnol,Prepaid,64,5.5,2,5,"Rs 1,160",No
+MT0306,2025-05-25,  BAHRIA TOWN ,Prepaid,66,15.9,2,4,Rs 820,No
+MT0307,2025-05-26,Shahzad Town,Prepaid,1,15.3,0,8,"Rs 1,300",Yes
+MT0308,2025-05-26,Shahzad Town,Prepaid,63,8.0,2,6,"Rs 1,780",No
+MT0309,2025-05-26,Golra,Postpaid,16,3.8,0,4,"Rs 1,190",No
+MT0310,2025-05-26,Saddar,Prepaid,13,15.6,0,0,"Rs 1,160",No
+MT0311,2025-05-26,Saddar,Postpaid,11,30.9,3,5,"Rs 1,770",Yes
+MT0312,2025-05-26,Bara Kahu,Prepaid,22,26.0,0,3,Rs 510,No
+MT0313,2025-05-26,Bahria Town,Postpaid,29,7.9,2,,Rs 630,Yes
+MT0314,2025-05-27,Blue Area,Prepaid,2,4.8,3,3,"Rs 1,030",Yes
+MT0315,2025-05-27,Bahria Town,Postpaid,54,12.7,1,3,Rs 200,No
+MT0316,2025-05-27,Saddar,Prepaid,18,5.6,2,1,Rs 800,No
+MT0317,2025-05-28,Bara Kahu,Prepaid,7,16.2,2,4,"Rs 2,380",Yes
+MT0318,2025-05-28,Golra,Prepaid,15,9.3,0,3,"Rs 1,550",No
+MT0319,2025-05-29,Bahria Town,Prepaid,2,9.2,0,3,"Rs 2,000",Yes
+MT0320,2025-05-29,Shahzad Town,Postpaid,19,3.6,2,0,"Rs 2,030",Yes
+MT0321,2025-05-30,Tarnol,Prepaid,68,6.5,0,2,"Rs 1,360",No
+MT0322,2025-05-30,Blue Area,Prepaid,3,17.4,1,,"Rs 1,360",Yes
+MT0323,2025-05-31,Saddar,Prepaid,32,17.8,1,5,Rs 900,Yes
+MT0324,2025-05-31,Shahzad Town,Postpaid,42,10.9,1,1,"Rs 1,730",No
+MT0325,2025-05-31,Tarnol,Postpaid,58,10.0,2,1,Rs 300,No
+MT0326,2025-06-01,Shahzad Town,Postpaid,16,10.8,1,2,"Rs 1,900",Yes
+MT0327,2025-06-01,Saddar,Postpaid,49,12.8,1,5,"Rs 2,010",No
+MT0328,2025-06-01,Shahzad Town,Postpaid,39,10.6,3,2,"Rs 2,220",Yes
+MT0329,2025-06-03,Blue Area,Postpaid,48,12.7,0,5,"Rs 2,140",No
+MT0330,2025-06-04,Shahzad Town,Prepaid,2,13.6,1,2,Rs 200,No
+MT0331,2025-06-04,Bara Kahu,Prepaid,17,11.8,1,0,Rs 820,No
+MT0332,2025-06-04,Golra,Prepaid,55,3.7,0,5,"Rs 2,370",No
+MT0333,2025-06-04,Bara Kahu,Prepaid,43,9.2,0,5,"Rs 1,990",No
+MT0334,2025-06-04,Shahzad Town,Prepaid,33,23.9,2,4,Rs 670,Yes
+MT0335,2025-06-05,Bara Kahu,Prepaid,58,10.3,1,6,"Rs 2,010",No
+MT0336,2025-06-06,Bahria Town,Postpaid,42,25.5,0,0,Rs 790,No
+MT0337,2025-06-06,Bara Kahu,Prepaid,14,14.0,3,2,"Rs 2,430",Yes
+MT0338,2025-06-06,Golra,Postpaid,38,4.3,1,2,Rs 670,
+MT0339,2025-06-06,Tarnol,Postpaid,17,7.1,2,1,"Rs 1,650",Yes
+MT0340,2025-06-07,Bara Kahu,Prepaid,43,3.5,1,,"Rs 1,830",No
+MT0341,2025-06-07,Saddar,Postpaid,53,7.1,1,5,"Rs 1,610",Yes
+MT0342,2025-06-07,Golra,Postpaid,30,2.1,2,3,"Rs 1,480",No
+MT0343,2025-06-07,Bara Kahu,Prepaid,23,9.1,2,2,"Rs 1,910",Yes
+MT0344,2025-06-07,Saddar,Prepaid,7,11.1,3,1,Rs 960,No
+MT0345,2025-06-07,Shahzad Town,Prepaid,48,13.8,3,5,Rs 970,No
+MT0346,2025-06-07,Saddar,Prepaid,32,8.3,3,2,Rs 960,No
+MT0347,2025-06-08,Tarnol,Prepaid,28,23.0,1,3,"Rs 1,430",Yes
+MT0348,2025-06-08,Bahria Town,Prepaid,69,50.2,2,0,Rs 850,No
+MT0349,2025-06-08,Bara Kahu  ,Prepaid,58,,0,4,"Rs 1,050",No
+MT0350,2025-06-09,Saddar,Postpaid,40,,2,4,"Rs 2,710",No
+MT0351,2025-06-09,Shahzad Town,Prepaid,33,20.2,0,4,"Rs 1,930",Yes
+MT0352,2025-06-10,Blue Area  ,Prepaid,42,3.4,5,1,"Rs 2,200",Yes
+MT0353,2025-06-10,Blue Area,Prepaid,19,26.2,0,4,"Rs 1,000",No
+MT0354,2025-06-11,Bara Kahu,Postpaid,13,8.1,2,2,Rs 740,Yes
+MT0355,2025-06-12,Golra,Postpaid,45,7.1,2,3,"Rs 2,180",Yes
+MT0356,2025-06-12,Golra,Prepaid,35,9.4,2,2,"Rs 2,630",No
+MT0357,2025-06-13,Shahzad Town,Prepaid,17,8.2,3,3,"Rs 1,430",Yes
+MT0358,2025-06-14,Bahria Town,Postpaid,72,33.0,0,1,"Rs 1,390",No
+MT0359,2025-06-14,Shahzad Town,Prepaid,33,12.3,0,3,"Rs 1,050",No
+MT0360,2025-06-14,BLUE AREA,Prepaid,35,5.6,3,4,"Rs 1,180",No
+MT0361,2025-06-15,Blue Area,Prepaid,48,30.6,0,5,"Rs 2,220",No
+MT0362,2025-06-15,Tarnol,Prepaid,43,8.9,2,3,"Rs 1,240",No
+MT0363,2025-06-16,Golra,Prepaid,32,15.3,1,2,Rs 200,Yes
+MT0364,2025-06-17,Bara Kahu,Postpaid,24,25.5,0,3,"Rs 1,410",No
+MT0365,2025-06-17,Bara Kahu,Prepaid,35,15.5,0,1,Rs 200,Yes
+MT0366,2025-06-18,Saddar,Prepaid,60,8.4,1,5,"Rs 1,040",No
+MT0367,2025-06-18,Saddar,Prepaid,56,17.8,1,1,"Rs 1,230",No
+MT0368,2025-06-19,Bahria Town,Prepaid,32,16.1,1,3,Rs 810,No
+MT0369,2025-06-20,Shahzad Town,Prepaid,33,8.0,3,4,"Rs 1,750",Yes
+MT0370,2025-06-20,Saddar,Prepaid,66,8.8,4,0,"Rs 1,980",No
+MT0371,2025-06-21,Tarnol,Postpaid,34,5.0,0,0,Rs 880,No
+MT0372,2025-06-21,Golra,Prepaid,49,17.1,2,1,"Rs 1,420",No
+MT0373,2025-06-22,Bahria Town,Postpaid,45,3.4,2,3,Rs 900,No
+MT0374,2025-06-22,Golra,Prepaid,39,7.0,2,0,"Rs 1,750",Yes
+MT0375,2025-06-22, Saddar,Prepaid,59,4.2,4,5,"Rs 1,250",Yes
+MT0376,2025-06-23,Tarnol,Prepaid,37,14.9,3,9,"Rs 2,060",Yes
+MT0377,2025-06-23,Saddar,Prepaid,45,23.3,2,1,Rs 650,No
+MT0378,2025-06-24, Golra,Prepaid,69,7.9,0,3,"Rs 1,600",Yes
+MT0379,2025-06-24, Bahria Town,Postpaid,25,9.4,0,1,"Rs 1,620",No
+MT0380,2025-06-24,Saddar,Postpaid,66,8.5,3,3,"Rs 1,720",No
+MT0381,2025-06-25,Bara Kahu,Prepaid,44,11.5,2,3,"Rs 1,150",No
+MT0382,2025-06-25,Bara Kahu,Postpaid,22,18.1,1,5,Rs 450,Yes
+MT0383,2025-06-25,Golra  ,Prepaid,46,14.1,0,3,"Rs 1,580",No
+MT0384,2025-06-26,Tarnol,Prepaid,67,8.8,0,3,"Rs 1,400",No
+MT0385,2025-06-26,Tarnol,Prepaid,65,7.1,2,7,"Rs 1,690",Yes
+MT0386,2025-06-27,blue area,Postpaid,25,20.7,2,5,"Rs 2,140",Yes
+MT0387,2025-06-27,Blue Area,Prepaid,5,7.4,0,1,"Rs 2,550",Yes
+MT0388,2025-06-28,Tarnol,Prepaid,7,9.6,1,3,"Rs 1,650",Yes
+MT0389,2025-06-28,Bara Kahu,Postpaid,33,6.8,1,1,"Rs 1,350",Yes
+MT0390,2025-06-28,Bara Kahu,Prepaid,67,8.9,1,2,"Rs 1,050",No
+MT0391,2025-06-28,Golra,Prepaid,57,4.0,2,3,"Rs 1,040",No
+MT0392,2025-06-28,Shahzad Town,Postpaid,20,36.6,0,2,Rs 300,No
+MT0393,2025-06-28,Golra,Prepaid,64,13.5,3,6,"Rs 2,000",Yes
+MT0394,2025-06-28,Bahria Town,Prepaid,37,11.3,2,2,Rs 940,No
+MT0395,2025-06-28,Golra,Prepaid,46,,1,3,"Rs 1,630",No
+MT0396,2025-06-28,Tarnol,Postpaid,60,6.2,1,2,"Rs 2,090",No
+MT0397,2025-06-29,Saddar,Prepaid,50,17.1,2,2,Rs 890,Yes
+MT0398,2025-06-29,SADDAR,Prepaid,27,2.5,1,3,"Rs 1,860",No
+MT0282,2025-05-19,Golra,Prepaid,66,10.4,2,1,Rs 910,No
+MT0399,2025-06-30,GOLRA,Prepaid,25,20.4,0,2,Rs 810,No
+MT0400,2025-07-01, Saddar,Postpaid,38,40.6,2,2,"Rs 1,080",No
+MT0401,2025-07-01,Saddar  ,Postpaid,21,9.7,1,5,"Rs 1,500",Yes
+MT0402,2025-07-01,Golra,Prepaid,55,12.6,1,3,Rs 760,No
+MT0403,2025-07-02,Golra,Postpaid,16,16.7,2,6,"Rs 2,300",Yes
+MT0404,2025-07-02,Bara Kahu,Prepaid,16,11.5,1,9,Rs 690,No
+MT0405,2025-07-02,Shahzad Town,Prepaid,33,,2,3,Rs 390,No
+MT0406,2025-07-03,Tarnol,Postpaid,23,5.3,0,2,"Rs 1,970",No
+MT0407,2025-07-04,Blue Area,Prepaid,14,16.5,0,3,"Rs 1,590",No
+MT0408,2025-07-07,  BARA KAHU ,Postpaid,29,12.1,1,5,"Rs 1,940",Yes
+MT0409,2025-07-07,Blue Area,Postpaid,64,18.7,2,1,Rs 760,No
+MT0410,2025-07-07,Saddar,Prepaid,66,7.8,2,5,"Rs 1,480",No
+MT0411,2025-07-08,Blue Area,Prepaid,31,6.8,0,3,Rs 920,No
+MT0412,2025-07-09,Bahria Town,Prepaid,45,14.6,1,3,"Rs 3,120",No
+MT0413,2025-07-09,Tarnol,Prepaid,29,25.9,3,2,Rs 210,No
+MT0414,2025-07-10,Tarnol,Postpaid,52,9.3,2,4,"Rs 1,840",No
+MT0415,2025-07-10,Bahria Town,Prepaid,16,13.9,1,3,Rs 350,No
+MT0416,2025-07-10,Bahria Town,Postpaid,62,29.9,1,6,"Rs 1,210",No
+MT0417,2025-07-11,Bahria Town,Prepaid,29,21.2,0,4,"Rs 1,200",No
+MT0418,2025-07-11,Shahzad Town,Prepaid,72,1.7,1,5,Rs 870,No
+MT0419,2025-07-11,Bahria Town,Prepaid,63,7.4,2,5,Rs 480,No
+MT0420,2025-07-12,Blue Area,Prepaid,16,21.3,2,,"Rs 1,990",No
+MT0421,2025-07-12,Tarnol,Prepaid,56,6.0,1,0,"Rs 1,240",
+MT0422,2025-07-13,Saddar,Prepaid,17,3.9,1,2,"Rs 1,070",No
+MT0423,2025-07-13,Bahria Town,Prepaid,50,33.2,0,1,"Rs 1,420",No
+MT0424,2025-07-16,Shahzad Town,Prepaid,60,22.3,1,,"Rs 1,980",No
+MT0425,2025-07-16,Saddar,Prepaid,40,17.2,3,1,"Rs 1,880",No
+MT0426,2025-07-16,Tarnol,Postpaid,4,11.4,3,4,Rs 580,Yes
+MT0427,2025-07-16,Bara Kahu,Prepaid,66,27.5,0,4,Rs 720,No
+MT0428,2025-07-18,Shahzad Town,Prepaid,69,23.3,1,4,"Rs 1,270",No
+MT0429,2025-07-18,Blue Area,Prepaid,55,20.8,3,4,"Rs 1,920",No
+MT0430,2025-07-18,Tarnol,Prepaid,3,9.6,3,2,"Rs 1,010",Yes
+MT0431,2025-07-20,Bahria Town,Prepaid,17,16.2,0,5,Rs 960,No
+MT0432,2025-07-20,Blue Area,Prepaid,6,11.4,1,0,Rs 200,No
+MT0433,2025-07-21,Saddar,Prepaid,2,7.3,0,1,Rs 560,No
+MT0434,2025-07-21,Saddar,Prepaid,45,6.5,2,4,"Rs 1,450",Yes
+MT0435,2025-07-22,Bara Kahu,Postpaid,7,20.2,1,2,"Rs 1,750",No
+MT0436,2025-07-22,Tarnol,Prepaid,5,7.3,1,1,"Rs 1,330",Yes
+MT0437,2025-07-22,Saddar,Prepaid,50,41.1,3,2,"Rs 2,730",No
+MT0438,2025-07-22,Tarnol,Postpaid,35,,3,3,"Rs 1,050",Yes
+MT0439,2025-07-23,Shahzad Town,Prepaid,21,55.3,1,5,Rs 360,No
+MT0440,2025-07-24,Shahzad Town,Prepaid,59,8.7,1,4,"Rs 2,050",No
+MT0441,2025-07-24,Blue Area,Prepaid,44,58.4,2,5,Rs 290,No
+MT0442,2025-07-24,Tarnol,Prepaid,66,,2,1,"Rs 2,080",Yes
+MT0443,2025-07-24,Blue Area,Postpaid,59,5.9,1,3,Rs 490,No
+MT0444,2025-07-24,Blue Area,Postpaid,71,13.7,1,3,"Rs 2,760",No
+MT0445,2025-07-25,Blue Area  ,Prepaid,30,29.6,0,1,"Rs 1,530",No
+MT0446,2025-07-25,Blue Area,Postpaid,26,18.9,1,6,"Rs 1,540",No
+MT0447,2025-07-25,Golra,Prepaid,10,13.5,2,4,"Rs 1,310",Yes
+MT0448,2025-07-25,Saddar,Prepaid,52,17.8,3,3,"Rs 1,430",No
+MT0449,2025-07-25,Blue Area,Prepaid,53,31.3,1,,"Rs 1,020",No
+MT0450,2025-07-26,Bara Kahu,Prepaid,66,28.4,0,5,"Rs 1,100",No
+MT0451,2025-07-26,Tarnol,Postpaid,42,10.9,0,1,Rs 710,No
+MT0452,2025-07-26,  TARNOL ,Prepaid,47,30.2,1,2,Rs 940,Yes
+MT0453,2025-07-27,Shahzad Town,Prepaid,17,,0,6,"Rs 1,170",No
+MT0454,2025-07-27,Bahria Town,Prepaid,34,29.1,2,6,"Rs 1,060",Yes
+MT0455,2025-07-27,Blue Area,Prepaid,27,5.2,1,0,"Rs 1,400",No
+MT0456,2025-07-27,Bara Kahu,Postpaid,15,10.9,0,0,"Rs 2,580",No
+MT0457,2025-07-29,Golra  ,Prepaid,999,8.0,0,0,"Rs 1,300",No
+MT0458,2025-07-29,Saddar,Prepaid,10,32.4,2,2,Rs 760,Yes
+MT0459,2025-07-30,Shahzad Town,Postpaid,41,6.1,2,3,"Rs 2,150",Yes
+MT0460,2025-07-30,Tarnol,Prepaid,38,2.2,1,3,Rs 550,Yes
+MT0461,2025-07-30,Blue Area,Postpaid,72,10.8,2,,"Rs 1,050",No
+MT0462,2025-07-30,Saddar,Prepaid,11,17.0,1,1,"Rs 1,390",No
+MT0463,2025-07-31,Golra,Prepaid,2,14.6,0,1,"Rs 1,700",No
+MT0464,2025-07-31,Blue Area,Postpaid,25,10.6,0,3,"Rs 1,810",No
+MT0465,2025-07-31,Tarnol,Postpaid,55,33.1,0,2,"Rs 2,890",No
+MT0466,2025-07-31,Shahzad Town,Postpaid,34,5.5,2,1,"Rs 2,410",No
+MT0467,2025-07-31,Shahzad Town,Prepaid,55,7.1,0,1,"Rs 1,070",No
+MT0468,2025-08-02,Golra,Prepaid,13,5.9,0,3,"Rs 1,280",No
+MT0469,2025-08-02,Tarnol,Prepaid,1,15.8,1,1,"Rs 1,810",Yes
+MT0470,2025-08-02,Saddar,Prepaid,20,25.1,2,3,"Rs 1,530",Yes
+MT0471,2025-08-04,Shahzad Town,Postpaid,63,5.8,0,2,"Rs 1,340",No
+MT0472,2025-08-04,Shahzad Town,Postpaid,21,7.6,1,3,Rs 630,No
+MT0473,2025-08-06,Bara Kahu,Prepaid,31,24.0,2,5,"Rs 1,750",Yes
+MT0474,2025-08-06,Blue Area,Postpaid,24,48.3,2,5,"Rs 1,250",No
+MT0475,2025-08-06,Golra,Postpaid,28,4.3,2,5,"Rs 1,890",Yes
+MT0476,2025-08-07,Saddar,Prepaid,56,17.0,3,1,"Rs 2,290",Yes
+MT0477,2025-08-08,Bahria Town,Prepaid,54,8.8,3,3,Rs 620,
+MT0478,2025-08-09,Blue Area,Postpaid,12,19.2,1,1,Rs 550,No
+MT0479,2025-08-09,Bahria Town,Prepaid,3,8.0,0,4,Rs 530,No
+MT0480,2025-08-09,Bara Kahu,Prepaid,4,8.8,0,4,"Rs 1,070",No
+MT0481,2025-08-10,Golra,Postpaid,25,10.0,0,1,"Rs 1,520",No
+MT0482,2025-08-10,Bahria Town,Prepaid,34,11.8,0,2,Rs 980,No
+MT0483,2025-08-11,Golra,Prepaid,20,13.4,0,4,"Rs 1,350",Yes
+MT0484,2025-08-11, Bara Kahu,Prepaid,64,23.8,0,2,"Rs 1,170",No
+MT0485,2025-08-12,Shahzad Town,Postpaid,24,14.3,1,2,"Rs 1,960",No
+MT0486,2025-08-12,Bara Kahu,Prepaid,24,4.7,2,2,"Rs 1,600",Yes
+MT0487,2025-08-13,Bahria Town,Postpaid,6,8.4,3,3,"Rs 1,670",Yes
+MT0488,2025-08-13,Bahria Town,Postpaid,65,11.1,0,2,"Rs 2,490",No
+MT0489,2025-08-13,Bahria Town,Prepaid,21,4.0,2,3,Rs 510,No
+MT0490,2025-08-13,Saddar,Postpaid,71,,2,3,"Rs 1,580",No
+MT0491,2025-08-13,Saddar,Prepaid,37,10.1,2,3,Rs 860,No
+MT0492,2025-08-13,Saddar,Prepaid,17,24.1,1,1,"Rs 1,150",No
+MT0493,2025-08-13,Bara Kahu,Prepaid,54,10.9,2,3,"Rs 1,860",Yes
+MT0494,2025-08-15,Golra,Prepaid,9,35.3,0,3,"Rs 1,570",No
+MT0495,2025-08-15,Golra,Prepaid,44,17.8,2,4,"Rs 1,050",No
+MT0492,2025-08-13,Saddar,Prepaid,17,24.1,1,1,"Rs 1,150",No
+MT0496,2025-08-15,Bara Kahu,Postpaid,49,5.4,0,,"Rs 1,200",Yes
+MT0497,2025-08-16,Bahria Town,Postpaid,21,10.8,3,3,Rs 860,Yes
+MT0498,2025-08-16,Blue Area,Prepaid,70,3.4,3,1,"Rs 2,100",No
+MT0499,2025-08-16,Tarnol,Prepaid,9,3.1,1,2,Rs 920,No
+MT0500,2025-08-19, Saddar,Prepaid,21,8.0,2,2,"Rs 1,610",No
+MT0501,2025-08-19,Golra,Prepaid,43,11.5,1,4,"Rs 1,310",No
+MT0502,2025-08-22,Saddar,Postpaid,43,4.7,0,1,Rs 950,No
+MT0503,2025-08-22,saddar,Postpaid,55,79.2,2,6,"Rs 1,500",No
+MT0504,2025-08-22,SADDAR,Prepaid,23,14.1,2,3,"Rs 1,170",No
+MT0505,2025-08-23,Blue Area,Prepaid,30,6.2,2,2,"Rs 1,360",No
+MT0506,2025-08-23,Tarnol,Postpaid,65,49.2,1,0,"Rs 1,250",No
+MT0507,2025-08-23,Bara Kahu,Prepaid,11,13.8,1,0,Rs 470,No
+MT0508,2025-08-25,Golra,Postpaid,12,10.0,1,8,"Rs 2,270",Yes
+MT0509,2025-08-26,Blue Area,Prepaid,52,,3,2,"Rs 1,080",No
+MT0510,2025-08-26,Shahzad Town,Postpaid,67,38.1,1,0,Rs 330,No
+MT0511,2025-08-27,Tarnol,Prepaid,34,62.0,1,5,"Rs 2,710",Yes
+MT0512,2025-08-28,Shahzad Town,Prepaid,10,27.7,0,1,Rs 880,No
+MT0513,2025-08-28,Golra,Prepaid,63,15.4,2,4,"Rs 1,520",No
+MT0514,2025-08-28,Saddar,Prepaid,31,11.5,1,3,"Rs 2,600",No
+MT0515,2025-08-28,Bara Kahu,Prepaid,33,5.7,1,3,"Rs 1,560",Yes
+MT0516,2025-08-28,Bahria Town,Prepaid,40,9.7,0,1,"Rs 1,960",No
+MT0517,2025-08-28,Blue Area,Prepaid,53,7.0,1,4,"Rs 2,130",No
+MT0518,2025-08-29,Bara Kahu,Prepaid,2,9.1,1,5,Rs 400,Yes
+MT0519,2025-08-30,Golra,Prepaid,20,29.0,2,5,Rs 880,Yes
+MT0520,2025-08-31,Bara Kahu,Postpaid,44,21.0,2,3,"Rs 1,190",No
+MT0521,2025-08-31,Tarnol,Postpaid,59,20.2,2,0,"Rs 2,080",No
+MT0355,2025-06-12,Golra,Postpaid,45,7.1,2,3,"Rs 2,180",Yes
+MT0522,2025-09-01,Tarnol,Postpaid,38,7.4,0,1,"Rs 1,350",No
+MT0523,2025-09-01,Shahzad Town,Prepaid,25,16.5,0,2,"Rs 1,990",No
+MT0524,2025-09-01,Tarnol,Prepaid,67,18.0,0,3,"Rs 2,180",No
+MT0525,2025-09-01,Saddar,Prepaid,7,3.5,4,2,"Rs 2,310",Yes
+MT0526,2025-09-02,Tarnol,Prepaid,67,29.9,0,6,"Rs 2,210",No
+MT0527,2025-09-02,Golra,Postpaid,22,8.4,2,2,Rs 350,No
+MT0528,2025-09-04,Shahzad Town,Prepaid,44,11.3,2,4,"Rs 1,250",Yes
+MT0529,2025-09-05,Bahria Town,Prepaid,22,5.7,1,,Rs 910,No
+MT0530,2025-09-05,Tarnol,Prepaid,999,12.2,0,5,"Rs 2,090",No
+MT0531,2025-09-05,Golra,Prepaid,37,7.6,3,1,"Rs 2,080",Yes
+MT0532,2025-09-06,Bahria Town,Prepaid,31,21.8,2,5,"Rs 1,880",No
+MT0533,2025-09-07,Shahzad Town,Postpaid,12,6.6,1,2,Rs 990,No
+MT0534,2025-09-07,Saddar,Prepaid,1,20.0,2,4,"Rs 1,150",Yes
+MT0535,2025-09-08,Blue Area,Prepaid,64,16.7,1,0,Rs 850,No
+MT0536,2025-09-08,Golra,Prepaid,45,9.1,1,4,"Rs 1,290",No
+MT0537,2025-09-08,Shahzad Town,Prepaid,38,10.8,0,3,"Rs 1,280",No
+MT0538,2025-09-09,Shahzad Town,Prepaid,51,19.1,1,5,"Rs 1,720",No
+MT0539,2025-09-10,Saddar,Prepaid,24,18.0,0,2,"Rs 1,560",No
+MT0540,2025-09-10,Bahria Town,Prepaid,55,44.9,2,2,"Rs 1,220",No
+MT0541,2025-09-11,Shahzad Town,Postpaid,24,2.8,1,6,"Rs 1,210",No
+MT0542,2025-09-12,Tarnol,Prepaid,67,13.6,1,8,"Rs 1,650",Yes
+MT0543,2025-09-13,Bara Kahu,Prepaid,53,42.2,2,4,"Rs 1,840",Yes
+MT0544,2025-09-14,Blue Area,Postpaid,46,9.7,2,4,"Rs 1,460",No
+MT0545,2025-09-15,Saddar,Postpaid,50,7.9,4,2,Rs 670,No
+MT0546,2025-09-15,Bara Kahu,Prepaid,27,4.0,1,4,"Rs 1,330",Yes
+MT0547,2025-09-15,Saddar,Prepaid,8,22.1,1,2,Rs 390,Yes
+MT0548,2025-09-15,Blue Area,Postpaid,19,6.9,1,4,"Rs 1,830",No
+MT0549,2025-09-16,Bahria Town,Postpaid,61,3.8,2,2,"Rs 1,160",No
+MT0550,2025-09-17,Tarnol,Prepaid,33,3.6,3,,"Rs 1,080",Yes
+MT0551,2025-09-18,Golra,Postpaid,16,12.6,1,3,"Rs 1,150",Yes
+MT0552,2025-09-18,Blue Area,Prepaid,41,3.6,3,0,"Rs 1,050",No
+MT0553,2025-09-19,Blue Area,Postpaid,42,3.5,0,3,"Rs 1,240",No
+MT0554,2025-09-19,Bara Kahu,Prepaid,39,14.5,0,3,"Rs 1,190",No
+MT0555,2025-09-19,  TARNOL ,Prepaid,61,8.6,0,3,Rs 890,No
+MT0556,2025-09-19,Bara Kahu  ,Prepaid,22,12.1,1,,"Rs 1,200",No
+MT0557,2025-09-19,Bara Kahu,Prepaid,2,2.8,0,6,"Rs 1,050",Yes
+MT0558,2025-09-19,Bara Kahu,Prepaid,9,40.7,0,1,"Rs 2,330",No
+MT0559,2025-09-20,Bahria Town,Prepaid,50,8.5,0,5,"Rs 1,100",No
+MT0560,2025-09-22,Bahria Town,Postpaid,58,14.5,0,1,"Rs 1,290",No
+MT0561,2025-09-22,Golra,Postpaid,37,14.7,4,3,"Rs 1,010",No
+MT0562,2025-09-22,Bahria Town,Prepaid,10,26.8,2,1,Rs 910,No
+MT0563,2025-09-22, Shahzad Town,Prepaid,21,21.2,4,5,Rs 350,Yes
+MT0564,2025-09-24,Shahzad Town,Prepaid,58,6.3,1,1,Rs 580,No
+MT0565,2025-09-25,Bahria Town,Prepaid,64,14.2,0,2,Rs 780,No
+MT0566,2025-09-25,GOLRA,Prepaid,39,7.2,1,1,"Rs 1,200",Yes
+MT0567,2025-09-25,Tarnol,Prepaid,31,6.8,1,3,"Rs 1,470",Yes
+MT0568,2025-09-25,Saddar,Postpaid,52,19.1,0,3,"Rs 1,550",No
+MT0569,2025-09-25,Shahzad Town,Postpaid,32,9.9,1,5,"Rs 2,330",No
+MT0570,2025-09-26,Saddar,Prepaid,16,7.8,2,4,"Rs 1,960",No
+MT0571,2025-09-27,Golra,Prepaid,50,10.2,4,0,"Rs 1,330",Yes
+MT0572,2025-09-27,Bara Kahu,Postpaid,1,11.7,2,2,"Rs 1,190",Yes
+MT0573,2025-09-28,TARNOL,Prepaid,59,16.1,3,4,"Rs 1,790",No
+MT0574,2025-09-29,Tarnol,Prepaid,52,17.0,1,4,"Rs 1,140",No
+MT0575,2025-09-29,Tarnol,Postpaid,28,15.3,1,5,Rs 730,No
+MT0576,2025-09-29,  TARNOL ,Prepaid,34,6.7,0,2,"Rs 2,940",No
+MT0577,2025-09-30,Bara Kahu,Prepaid,37,,2,4,"Rs 2,090",No
+MT0578,2025-10-01,Shahzad Town,Postpaid,27,25.9,0,4,"Rs 1,190",No
+MT0579,2025-10-02,Blue Area,Postpaid,55,4.4,2,1,Rs 250,No
+MT0580,2025-10-02,Tarnol,Prepaid,70,4.7,0,2,Rs 600,
+MT0581,2025-10-02,Shahzad Town,Prepaid,65,8.9,1,3,"Rs 1,690",No
+MT0582,2025-10-03,Golra,Prepaid,63,16.4,0,2,Rs 680,No
+MT0583,2025-10-03,Blue Area,Prepaid,17,21.0,1,2,Rs 550,No
+MT0584,2025-10-03,Tarnol,Prepaid,24,4.1,0,1,"Rs 1,300",Yes
+MT0553,2025-09-19,Blue Area,Postpaid,42,3.5,0,3,"Rs 1,240",No
+MT0401,2025-07-01,Saddar  ,Postpaid,21,9.7,1,5,"Rs 1,500",Yes
+MT0585,2025-10-03,bahria town,Prepaid,2,31.6,2,6,"Rs 1,710",Yes
+MT0586,2025-10-04,Golra,Prepaid,54,27.1,2,1,Rs 920,
+MT0587,2025-10-04,Saddar,Prepaid,69,20.2,2,4,Rs 230,No
+MT0588,2025-10-04,Blue Area,Postpaid,44,14.8,3,3,"Rs 1,710",Yes
+MT0589,2025-10-06,Tarnol,Prepaid,9,,0,1,"Rs 1,540",No
+MT0590,2025-10-07,Golra,Prepaid,6,11.2,4,1,"Rs 1,530",Yes
+MT0591,2025-10-07,Saddar,Prepaid,31,4.1,4,7,Rs 940,Yes
+MT0592,2025-10-07,Bahria Town,Postpaid,1,6.3,1,1,"Rs 1,810",No
+MT0593,2025-10-09,Golra,Prepaid,17,25.1,0,2,Rs 720,No
+MT0594,2025-10-10,Saddar,Postpaid,33,21.4,2,,"Rs 1,160",
+MT0595,2025-10-12,Bahria Town,Prepaid,33,6.6,0,2,Rs 960,No
+MT0596,2025-10-12,SADDAR,Prepaid,72,8.6,0,2,"Rs 2,150",No
+MT0597,2025-10-12,Bara Kahu,Prepaid,40,3.2,3,1,Rs 670,Yes
+MT0598,2025-10-13,saddar,Prepaid,69,27.8,0,2,"Rs 1,640",No
+MT0599,2025-10-13,Blue Area,Prepaid,37,16.1,0,2,Rs 200,No
+MT0600,2025-10-13,Tarnol,Prepaid,58,10.3,3,1,Rs 200,No
+MT0601,2025-10-14,Bara Kahu,Prepaid,21,12.5,1,3,Rs 200,No
+MT0602,2025-10-14,Bara Kahu,Prepaid,16,11.8,1,2,Rs 880,Yes
+MT0603,2025-10-14,Saddar,Prepaid,63,12.2,3,2,"Rs 1,770",No
+MT0604,2025-10-15,Golra,Postpaid,54,5.5,0,2,"Rs 1,840",No
+MT0605,2025-10-15,  BLUE AREA ,Prepaid,70,17.9,0,2,"Rs 2,050",No
+MT0606,2025-10-16,Bara Kahu,Prepaid,61,8.2,0,2,"Rs 1,600",No
+MT0607,2025-10-16,Blue Area,Postpaid,46,32.4,1,3,"Rs 1,600",No
+MT0608,2025-10-16,Saddar,Prepaid,1,8.4,3,8,Rs 810,Yes
+MT0609,2025-10-16,Saddar,Prepaid,29,9.3,1,1,Rs 970,No
+MT0610,2025-10-17,Bara Kahu,Prepaid,46,5.6,0,4,"Rs 2,040",No
+MT0611,2025-10-17,Golra,Prepaid,31,11.9,1,3,"Rs 1,750",No
+MT0612,2025-10-17,Bara Kahu,Prepaid,37,21.1,0,4,"Rs 1,220",No
+MT0613,2025-10-18,Golra,Prepaid,61,8.0,2,6,"Rs 1,810",No
+MT0614,2025-10-18,Shahzad Town,Prepaid,68,27.0,3,2,"Rs 1,110",No
+MT0615,2025-10-18,Shahzad Town,Prepaid,45,20.2,0,1,"Rs 1,570",No
+MT0616,2025-10-18,Shahzad Town,Prepaid,37,13.7,1,5,"Rs 1,140",No
+MT0617,2025-10-20,Bara Kahu,Prepaid,32,11.0,1,4,Rs 990,Yes
+MT0618,2025-10-20,Bahria Town,Postpaid,9,12.8,1,3,"Rs 1,370",No
+MT0619,2025-10-21,Golra,Prepaid,44,6.2,2,1,"Rs 1,280",No
+MT0620,2025-10-21,Golra,Prepaid,14,13.0,2,2,"Rs 2,720",Yes
+MT0621,2025-10-23,Saddar,Prepaid,31,5.1,1,,"Rs 1,530",No
+MT0106,2025-02-25,Bara Kahu,Prepaid,25,8.5,0,3,"Rs 2,020",Yes
+MT0622,2025-10-23,TARNOL,Postpaid,68,24.5,2,2,"Rs 1,020",Yes
+MT0623,2025-10-23,  GOLRA ,Prepaid,12,9.7,2,2,Rs 720,No
+MT0624,2025-10-23,Bahria Town,Postpaid,41,10.4,2,5,"Rs 2,080",Yes
+MT0625,2025-10-24,Tarnol,Postpaid,58,12.4,0,3,"Rs 2,290",No
+MT0626,2025-10-24,Tarnol,Prepaid,25,19.9,1,3,"Rs 1,850",Yes
+MT0627,2025-10-24, Tarnol,Postpaid,29,42.8,2,0,"Rs 1,590",No
+MT0628,2025-10-25,Tarnol,Postpaid,55,26.4,1,1,"Rs 2,360",No
+MT0629,2025-10-25,Bara Kahu,Prepaid,18,11.3,4,3,"Rs 1,500",Yes
+MT0630,2025-10-25,Bahria Town,Prepaid,29,19.2,0,3,"Rs 1,730",No
+MT0631,2025-10-25,Saddar,Postpaid,67,27.0,2,3,"Rs 2,190",No
+MT0632,2025-10-25,Saddar,Postpaid,18,,2,2,"Rs 1,020",No
+MT0633,2025-10-26,Shahzad Town,Prepaid,5,8.5,1,3,"Rs 1,940",Yes
+MT0634,2025-10-28,Blue Area,Prepaid,21,21.9,1,3,"Rs 1,550",Yes
+MT0635,2025-10-28,Bahria Town,Prepaid,65,45.8,0,4,"Rs 2,490",No
+MT0636,2025-10-28,Bara Kahu,Postpaid,25,9.7,0,4,Rs 890,No
+MT0637,2025-10-28,SADDAR,Prepaid,52,14.0,1,1,"Rs 1,640",No
+MT0638,2025-10-28,Shahzad Town,Prepaid,26,43.6,1,1,"Rs 1,810",No
+MT0639,2025-10-29,Golra,Postpaid,51,20.1,0,3,"Rs 1,490",No
+MT0640,2025-10-31,Bahria Town,Prepaid,12,42.8,1,3,"Rs 1,850",No
+MT0641,2025-11-01,Blue Area,Prepaid,12,12.8,1,3,"Rs 1,110",No
+MT0642,2025-11-01,Saddar,Prepaid,16,24.6,1,4,"Rs 1,430",No
+MT0643,2025-11-01,Tarnol,Prepaid,63,12.3,2,2,"Rs 1,050",No
+MT0644,2025-11-01,Bara Kahu,Prepaid,65,38.1,0,1,Rs 290,No
+MT0392,2025-06-28,Shahzad Town,Postpaid,20,36.6,0,2,Rs 300,No
+MT0645,2025-11-01,Tarnol,Prepaid,2,2.5,3,7,"Rs 2,270",Yes
+MT0646,2025-11-01,Shahzad Town,Postpaid,44,17.5,1,9,"Rs 1,960",Yes
+MT0647,2025-11-03,Bahria Town,Prepaid,25,15.2,0,6,Rs 930,No
+MT0648,2025-11-03,Shahzad Town,Postpaid,14,35.4,0,1,"Rs 1,990",Yes
+MT0649,2025-11-04,Shahzad Town,Postpaid,45,19.3,1,4,"Rs 1,740",No
+MT0650,2025-11-04,Shahzad Town,Prepaid,55,20.5,2,6,"Rs 1,220",Yes
+MT0651,2025-11-05,Shahzad Town,Prepaid,28,19.1,0,1,Rs 290,No
+MT0652,2025-11-05,Bara Kahu,Prepaid,52,12.3,3,4,"Rs 1,190",Yes
+MT0653,2025-11-06,Saddar,Prepaid,20,31.6,1,3,"Rs 1,310",No
+MT0654,2025-11-06,Bahria Town,Prepaid,8,18.7,0,0,"Rs 1,430",No
+MT0655,2025-11-07,Shahzad Town,Prepaid,480,38.0,3,5,"Rs 1,030",Yes
+MT0656,2025-11-09,Bahria Town,Postpaid,11,9.9,0,3,"Rs 1,620",No
+MT0657,2025-11-09,Bahria Town,Postpaid,15,9.2,2,3,Rs 990,No
+MT0658,2025-11-10,Saddar,Prepaid,27,18.1,1,1,"Rs 1,980",No
+MT0659,2025-11-10,Bara Kahu,Prepaid,20,9.2,1,3,"Rs 1,800",No
+MT0660,2025-11-10,Blue Area,Prepaid,21,8.9,2,3,"Rs 1,250",Yes
+MT0661,2025-11-11,Bara Kahu,Postpaid,22,10.4,2,2,"Rs 1,840",No
+MT0662,2025-11-11,TARNOL,Prepaid,18,31.9,1,,"Rs 1,850",No
+MT0663,2025-11-11,Tarnol,Prepaid,24,30.0,1,4,Rs 880,Yes
+MT0304,2025-05-25,Blue Area  ,Prepaid,8,7.1,1,2,"Rs 1,140",No
+MT0664,2025-11-11,Bara Kahu,Postpaid,8,18.1,3,3,"Rs 1,560",Yes
+MT0665,2025-11-12,Tarnol,Prepaid,33,,1,2,"Rs 1,060",No
+MT0666,2025-11-12,Saddar,Postpaid,20,6.1,2,4,"Rs 1,220",No
+MT0667,2025-11-12,Bara Kahu,Prepaid,58,10.2,1,,"Rs 1,580",No
+MT0668,2025-11-13,Golra,Postpaid,46,23.9,0,2,"Rs 1,080",No
+MT0669,2025-11-13,Saddar,Prepaid,27,2.1,1,1,"Rs 1,320",No
+MT0670,2025-11-13,Saddar,Prepaid,33,59.8,0,3,"Rs 1,560",No
+MT0671,2025-11-14,Blue Area,Postpaid,23,20.6,4,1,"Rs 1,470",No
+MT0672,2025-11-14,BLUE AREA,Prepaid,28,4.1,1,1,"Rs 1,110",No
+MT0673,2025-11-15,Blue Area,Prepaid,69,7.8,3,1,Rs 830,No
+MT0674,2025-11-15,Bara Kahu,Postpaid,55,4.6,2,3,"Rs 1,170",No
+MT0675,2025-11-15,Bara Kahu,Prepaid,25,13.0,2,1,"Rs 1,300",Yes
+MT0676,2025-11-17,Bahria Town,Prepaid,48,22.4,3,4,"Rs 1,020",No
+MT0677,2025-11-17,Shahzad Town,Postpaid,21,31.5,2,2,"Rs 2,350",Yes
+MT0678,2025-11-17,Tarnol,Postpaid,37,16.5,1,5,"Rs 1,950",Yes
+MT0679,2025-11-18,Saddar,Prepaid,65,32.5,4,1,Rs 920,
+MT0680,2025-11-19,Blue Area,Prepaid,-1,28.7,2,3,"Rs 2,360",Yes
+MT0681,2025-11-19,Shahzad Town,Prepaid,57,5.4,1,3,Rs 740,No
+MT0682,2025-11-19,Bara Kahu,Postpaid,19,5.4,1,6,"Rs 1,600",Yes
+MT0683,2025-11-19,Golra,Prepaid,55,1.7,1,5,"Rs 1,200",No
+MT0684,2025-11-20,Tarnol,Postpaid,11,2.6,2,1,"Rs 1,190",Yes
+MT0685,2025-11-20,Shahzad Town,Postpaid,64,27.4,2,4,"Rs 1,380",No
+MT0686,2025-11-21,Golra,Prepaid,27,13.9,0,2,"Rs 2,820",No
+MT0687,2025-11-23,Golra,Prepaid,33,5.1,0,1,"Rs 1,260",Yes
+MT0688,2025-11-23,Saddar,Prepaid,9,21.2,2,4,"Rs 1,710",No
+MT0689,2025-11-23,Shahzad Town,Postpaid,66,16.4,2,6,Rs 520,No
+MT0690,2025-11-23,Bara Kahu,Prepaid,14,14.5,4,3,Rs 400,Yes
+MT0691,2025-11-23,Tarnol,Prepaid,21,8.8,2,4,"Rs 1,650",No
+MT0692,2025-11-23,Blue Area,Prepaid,28,16.0,2,1,"Rs 1,590",No
+MT0693,2025-11-24,Shahzad Town,Prepaid,12,6.2,0,5,Rs 200,No
+MT0694,2025-11-25,Blue Area,Prepaid,22,21.8,0,5,"Rs 1,700",No
+MT0695,2025-11-25,Shahzad Town,Prepaid,65,7.2,1,5,"Rs 1,270",Yes
+MT0696,2025-11-26,Bara Kahu,Prepaid,58,,1,,"Rs 1,170",No
+MT0697,2025-11-27,Bahria Town,Prepaid,34,16.9,0,2,"Rs 1,500",No
+MT0698,2025-11-27,Shahzad Town,Postpaid,54,11.7,0,1,"Rs 1,610",No
+MT0699,2025-11-27, Golra,Prepaid,71,8.3,0,5,"Rs 1,550",No
+MT0700,2025-11-27,  BLUE AREA ,Postpaid,10,17.7,0,,Rs 650,No
+MT0701,2025-11-27,Blue Area,Prepaid,55,9.0,0,2,"Rs 1,350",No
+MT0702,2025-11-28,Bahria Town,Prepaid,43,8.4,0,3,Rs 740,No
+MT0689,2025-11-23,Shahzad Town,Postpaid,66,16.4,2,6,Rs 520,No
+MT0703,2025-11-28,Blue Area,Prepaid,21,10.9,1,3,"Rs 2,240",No
+MT0704,2025-11-29,Saddar,Postpaid,29,23.9,2,5,"Rs 1,250",No
+MT0705,2025-11-29,Tarnol,Prepaid,26,9.1,0,3,"Rs 2,490",No
+MT0706,2025-11-30,Saddar,Postpaid,53,6.6,0,4,"Rs 1,560",No
+MT0707,2025-12-01,Bara Kahu,Postpaid,31,15.9,1,2,"Rs 2,060",No
+MT0708,2025-12-01,Bara Kahu,Prepaid,5,10.3,2,3,Rs 730,Yes
+MT0709,2025-12-01,Shahzad Town,Prepaid,17,7.0,1,3,"Rs 2,080",No
+MT0710,2025-12-02,Tarnol,Prepaid,53,19.2,0,6,Rs 330,No
+MT0711,2025-12-02,Bahria Town,Postpaid,42,20.1,1,3,"Rs 1,850",No
+MT0712,2025-12-02,  BARA KAHU ,Prepaid,72,21.0,0,4,"Rs 2,110",No
+MT0713,2025-12-03,Saddar,Prepaid,34,20.0,3,5,"Rs 2,170",No
+MT0714,2025-12-03,Golra,Prepaid,59,14.6,1,6,"Rs 2,340",Yes
+MT0715,2025-12-04,Bara Kahu,Prepaid,26,11.9,2,2,"Rs 1,130",No
+MT0716,2025-12-04,Tarnol,Prepaid,30,9.3,1,8,"Rs 2,220",Yes
+MT0717,2025-12-04,Tarnol,Postpaid,65,,2,1,"Rs 1,430",No
+MT0718,2025-12-04,Bahria Town,Prepaid,7,31.0,1,9,Rs 510,Yes
+MT0713,2025-12-03,Saddar,Prepaid,34,20.0,3,5,"Rs 2,170",No
+MT0719,2025-12-05,Bahria Town,Postpaid,14,3.7,1,3,"Rs 2,420",No
+MT0720,2025-12-05,Bahria Town,Prepaid,38,4.3,1,7,"Rs 1,690",Yes
+MT0721,2025-12-06,Blue Area,Prepaid,12,7.3,2,5,"Rs 2,250",Yes
+MT0722,2025-12-06,Bahria Town,Postpaid,70,9.2,0,3,Rs 200,No
+MT0723,2025-12-06,Bara Kahu,Prepaid,61,3.8,0,4,"Rs 1,820",Yes
+MT0724,2025-12-06,Tarnol,Postpaid,51,23.7,0,6,"Rs 1,580",No
+MT0725,2025-12-07,Tarnol,Postpaid,9,4.8,0,3,Rs 820,No
+MT0726,2025-12-07,Blue Area,Postpaid,40,15.5,1,3,"Rs 1,500",
+MT0727,2025-12-08,Tarnol,Postpaid,17,5.6,0,2,"Rs 2,680",No
+MT0728,2025-12-09,Bara Kahu,Prepaid,49,19.9,0,3,"Rs 2,750",No
+MT0729,2025-12-10,Blue Area,Prepaid,40,27.6,3,1,"Rs 1,840",No
+MT0730,2025-12-10, Golra,Postpaid,53,19.1,1,1,"Rs 1,460",No
+MT0731,2025-12-10,Blue Area,Postpaid,43,,0,5,"Rs 1,680",No
+MT0732,2025-12-10,Saddar,Prepaid,36,23.5,1,,Rs 930,
+MT0733,2025-12-11,Bahria Town,Prepaid,27,11.6,2,6,"Rs 1,610",No
+MT0734,2025-12-11,Tarnol,Prepaid,-3,6.5,1,3,Rs 810,Yes
+MT0674,2025-11-15,Bara Kahu,Postpaid,55,4.6,2,3,"Rs 1,170",No
+MT0735,2025-12-11,Shahzad Town,Postpaid,54,2.0,1,3,"Rs 1,220",No
+MT0736,2025-12-12,Blue Area,Postpaid,3,15.2,0,4,"Rs 1,330",No
+MT0737,2025-12-12,Bara Kahu,Prepaid,24,6.6,1,1,"Rs 1,050",Yes
+MT0738,2025-12-12,Golra,Prepaid,50,21.2,2,2,"Rs 1,760",Yes
+MT0739,2025-12-13,Bara Kahu,Prepaid,37,,0,5,"Rs 1,800",No
+MT0740,2025-12-13,Bara Kahu,Postpaid,66,35.5,2,4,"Rs 2,670",No
+MT0741,2025-12-13,Golra,Prepaid,55,17.4,1,3,"Rs 1,010",Yes
+MT0742,2025-12-14,Golra,Prepaid,5,2.1,0,1,"Rs 1,630",No
+MT0743,2025-12-14,Blue Area  ,Prepaid,65,9.6,0,5,"Rs 2,840",No
+MT0744,2025-12-15,Bahria Town,Postpaid,4,24.2,1,3,"Rs 1,750",No
+MT0745,2025-12-15,Shahzad Town,Prepaid,56,8.8,1,2,"Rs 2,830",No
+MT0197,2025-04-05,Tarnol,Prepaid,19,21.3,0,0,Rs 880,No
+MT0687,2025-11-23,Golra,Prepaid,33,5.1,0,1,"Rs 1,260",Yes
+MT0746,2025-12-15,Blue Area,Prepaid,10,8.0,3,4,"Rs 2,250",Yes
+MT0747,2025-12-15,Bahria Town,Postpaid,19,28.6,0,2,Rs 690,No
+MT0748,2025-12-15,Saddar,Prepaid,30,7.2,0,4,"Rs 1,150",No
+MT0749,2025-12-16,Saddar,Prepaid,60,6.1,1,4,Rs 850,No
+MT0750,2025-12-16,Saddar,Postpaid,62,,2,3,Rs 770,No
+MT0751,2025-12-16,Golra,Postpaid,5,10.4,4,2,"Rs 1,570",Yes
+MT0752,2025-12-16,  SADDAR ,Prepaid,51,11.8,0,3,"Rs 1,160",No
+MT0753,2025-12-17,Golra,Prepaid,33,10.8,0,6,"Rs 1,140",No
+MT0754,2025-12-17,Bahria Town,Prepaid,17,27.3,3,5,"Rs 2,580",Yes
+MT0755,2025-12-18,Tarnol,Prepaid,16,35.8,1,3,"Rs 1,140",Yes
+MT0756,2025-12-19, Golra,Postpaid,23,6.4,0,1,Rs 200,No
+MT0757,2025-12-19,Golra,Prepaid,52,,0,6,"Rs 1,800",No
+MT0758,2025-12-20,Golra,Prepaid,49,16.7,2,3,Rs 830,No
+MT0759,2025-12-20,Golra,Postpaid,27,32.4,1,3,"Rs 2,010",Yes
+MT0760,2025-12-21,Golra,Postpaid,19,6.6,0,1,"Rs 1,860",No
+MT0761,2025-12-21,Blue Area,Prepaid,23,26.2,0,4,"Rs 1,250",No
+MT0762,2025-12-23,Blue Area,Postpaid,40,13.8,1,6,"Rs 1,050",No
+MT0763,2025-12-23,Saddar,Postpaid,72,54.7,3,,"Rs 1,850",No
+MT0764,2025-12-23,Shahzad Town,Prepaid,35,8.1,4,4,"Rs 1,640",No
+MT0765,2025-12-23,Blue Area,Prepaid,45,23.0,1,4,"Rs 2,260",No
+MT0766,2025-12-23,Bara Kahu,Prepaid,54,8.6,1,2,"Rs 1,480",No
+MT0767,2025-12-24,blue area,Postpaid,58,16.5,2,5,"Rs 1,860",No
+MT0768,2025-12-25,Bara Kahu,Prepaid,16,12.7,1,3,"Rs 1,380",Yes
+MT0769,2025-12-25,Saddar,Prepaid,39,5.1,1,4,"Rs 2,090",Yes
+MT0770,2025-12-26,Golra,Prepaid,69,13.2,2,5,Rs 840,No
+MT0771,2025-12-27,Shahzad Town,Prepaid,8,9.1,3,5,"Rs 1,100",Yes
+MT0772,2025-12-27,Shahzad Town,Prepaid,61,29.3,2,4,"Rs 1,670",No
+MT0773,2025-12-27,Blue Area,Postpaid,13,4.4,2,6,"Rs 1,670",No
+MT0774,2025-12-28,Golra,Prepaid,58,26.7,0,3,"Rs 1,070",No
+MT0775,2025-12-29,Tarnol,Prepaid,18,16.9,1,4,"Rs 1,940",Yes
+MT0776,2025-12-29,Golra,Postpaid,53,31.8,2,5,"Rs 1,310",Yes
+MT0777,2025-12-30,  SHAHZAD TOWN ,Postpaid,9,15.4,2,3,"Rs 1,700",No
+MT0778,2025-12-31,Shahzad Town,Postpaid,3,24.7,0,2,"Rs 1,290",No
+MT0779,2025-12-31,Golra,Prepaid,16,4.0,1,3,"Rs 1,900",Yes
+MT0780,2025-12-31,Bahria Town,Prepaid,67,9.0,0,3,Rs 850,
